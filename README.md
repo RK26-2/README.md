@@ -1,6 +1,4 @@
-# README.md
- 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rozina Khatun
+ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rozina Khatun
 ======================================================================================================================================
 
 Cybersecurity Analyst
@@ -15,7 +13,7 @@ Certifications: NCFC Level 3, Google Cybersecurity Professional, CompTIA Securit
 Education: Post-Grad Diploma in Information Science, Graduation(Bachelor of Social Science) in Information Science and Library Management.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/rdk278)
+* 🖥️  See my social portfolio at [linkedin](http://www.linkedin.com/in/rdk278)
 * ✉️  You can contact me at [rk0712gk@gmail.com](mailto:rk0712gk@gmail.com)
 * 🧠  I'm currently learning CompTIA Security+
 * 👥  I'm looking to collaborate on Developing custom detection rules for SIEM platforms, analysing emerging threat vectors, hardening Linux-based storage environments (ZFS/RAID), and building secure CI/CD pipelines, security awareness training initiatives, open-source security tool development and automating Cybersecurity tasks.
